@@ -13,6 +13,6 @@ cd $IDIR/simplesim-3.0
 make config-pisa
 make
 # Test simulator
-# ./sim-safe tests/bin.little/test-math
+./sim-safe tests/bin.little/test-math
 
-./sim-cache 
+# ./sim-cache 
